@@ -1,3 +1,9 @@
+opx-nas-multicast (0.4.1) unstable; urgency=medium
+
+  fix: change source file paths in Makefile.am
+
+ -- Dell EMC <ops-dev@lists.openswitch.net>  Fri, 15 Feb 2019  13:50:00 -0800
+
 opx-nas-multicast (0.4.0) unstable; urgency=medium
 
   Initial version
